@@ -2,6 +2,7 @@
 #Script by CYBER ARAFAT
 
 Installation :
+
 git clone https://github.com/PRINCE-ARAFAT/Termux-Banner.git
 
 cd Termux-Banner
